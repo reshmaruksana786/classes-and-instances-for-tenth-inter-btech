@@ -14,6 +14,9 @@
 		835808B822F99AA40095BBD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 835808B622F99AA40095BBD5 /* LaunchScreen.storyboard */; };
 		835808C322F99AA40095BBD5 /* classes_and_instancesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835808C222F99AA40095BBD5 /* classes_and_instancesTests.swift */; };
 		835808CE22F99AA40095BBD5 /* classes_and_instancesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835808CD22F99AA40095BBD5 /* classes_and_instancesUITests.swift */; };
+		835808DC22F99AE50095BBD5 /* TenthStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835808DB22F99AE50095BBD5 /* TenthStudent.swift */; };
+		835808DE22F9A3710095BBD5 /* InterStudent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835808DD22F9A3710095BBD5 /* InterStudent.swift */; };
+		83B2F91E22FA8BB9008C9272 /* BTECH Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83B2F91D22FA8BB9008C9272 /* BTECH Student.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		835808C922F99AA40095BBD5 /* classes and instancesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "classes and instancesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		835808CD22F99AA40095BBD5 /* classes_and_instancesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classes_and_instancesUITests.swift; sourceTree = "<group>"; };
 		835808CF22F99AA40095BBD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		835808DB22F99AE50095BBD5 /* TenthStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TenthStudent.swift; sourceTree = "<group>"; };
+		835808DD22F9A3710095BBD5 /* InterStudent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InterStudent.swift; sourceTree = "<group>"; };
+		83B2F91D22FA8BB9008C9272 /* BTECH Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BTECH Student.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +109,9 @@
 				835808B422F99AA40095BBD5 /* Assets.xcassets */,
 				835808B622F99AA40095BBD5 /* LaunchScreen.storyboard */,
 				835808B922F99AA40095BBD5 /* Info.plist */,
+				835808DB22F99AE50095BBD5 /* TenthStudent.swift */,
+				835808DD22F9A3710095BBD5 /* InterStudent.swift */,
+				83B2F91D22FA8BB9008C9272 /* BTECH Student.swift */,
 			);
 			path = "classes and instances";
 			sourceTree = "<group>";
@@ -259,7 +268,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83B2F91E22FA8BB9008C9272 /* BTECH Student.swift in Sources */,
+				835808DC22F99AE50095BBD5 /* TenthStudent.swift in Sources */,
 				835808B022F99AA40095BBD5 /* ViewController.swift in Sources */,
+				835808DE22F9A3710095BBD5 /* InterStudent.swift in Sources */,
 				835808AE22F99AA40095BBD5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
